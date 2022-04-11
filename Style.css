@@ -1,0 +1,75 @@
+ body{
+     margin: -18px;
+     margin: auto ;
+     width: 700px;
+     background-image: url(../images/fond.png);
+ }
+ header{
+     background-color: #95d343;
+     border: 0px ;
+     padding-top:22 px;
+ }
+ nav{
+    
+     margin-left:100px;
+     
+ }
+ img{
+     padding-right: 800px;
+     padding-left: 284PX;
+ }
+ 
+  
+ 
+
+ .menu li a{
+      
+    text-decoration: dotted;
+     padding: 200px 20px;
+     margin-top: 0px;
+     font-size: large;
+     font-weight: bold;
+     text-align: center;
+ }
+ .btn{
+background: #95d343;
+     color:black;
+     padding: 5px 50px;
+     text-align: left;
+    text-transform: ;
+ }
+ ul {
+     display: inline;
+
+    
+ }
+ .menu li{
+     display: inline;
+     padding-left: 30px 20px;
+     padding-bottom: 60px;
+ }
+ nav h1{
+     text-transform: uppercase;
+     font-size: xx-large;
+     color: #95d343;
+     padding-left: 10px 5px;
+     border-left: 20px 10px 20px;
+     margin-left: 20px 20px;
+ }
+ .paragraphe{  line-height: 20px;
+               float: left;
+               padding-left: 20px 30px;
+
+ }
+
+ .liste ul li {
+     padding-left: 100px;
+       
+ }
+ footer image{
+     text-align: center;
+ }
+ main{
+     background: white;
+     padding-bottom: 23px;
+ }
